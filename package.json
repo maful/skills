@@ -1,0 +1,12 @@
+{
+  "name": "@maful/skills",
+  "version": "0.0.1",
+  "private": "true",
+  "description": "Maful Prayoga's agent skills for serious engineer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maful/skills"
+  },
+  "author": "Maful Prayoga <me@maful.web.id> (https://maful.web.id)",
+  "license": "MIT"
+}
